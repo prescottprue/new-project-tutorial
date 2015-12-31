@@ -1,0 +1,11 @@
+{
+  "name": "new-project-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prescott Prue <sprue.dev@gmail.com> (http://prescottprue.com/)",
+  "license": "ISC"
+}
